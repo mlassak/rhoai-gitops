@@ -1,3 +1,6 @@
+> [!NOTE]
+> Repository is now moved in https://github.com/opendatahub-io/odh-gitops
+
 # Red Hat OpenShift AI - GitOps Repository
 
 This repository provides a GitOps-based approach to deploying and managing Red Hat OpenShift AI and its dependencies using Kustomize. It serves as a standardized, repeatable, and automated way to configure the complete OpenShift AI stack.
